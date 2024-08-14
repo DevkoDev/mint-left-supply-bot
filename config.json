@@ -1,0 +1,10 @@
+{
+    "LEFT_BOT_TOKEN":"",
+    "MAX_SUPPLY":10000,
+    "CONTRACT_ADDRESS": "0x291639d3884c008c29b32f2f12d05a7d2da8aa48",
+    "INFURA": {
+        "NETWORK": "mainnet",
+        "KEY": "8978f1a0abbd408c9a4f13c72a0c4ba4"
+
+    }
+}
